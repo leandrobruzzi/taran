@@ -14,7 +14,7 @@ header{
 
 div.portada{
     height: 440px;
-    background: url("/img/inscripciones.jpg"); 
+    background: url("../img/inscripciones.jpg"); 
     background-size: cover;
     background-position: center;
     text-align: center;

@@ -1,0 +1,80 @@
+/* Este estilo lo aplicamos para no tener espacios entre los elementos */
+h1,h2,h3,h4,h5,p,a,span{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: #f8f9fa!important;
+}
+header{
+    padding: 0!important;
+}
+.navbar-brand img{
+    height: 4em;
+}
+
+div.portada{
+    height: 440px;
+    background: url("/img/inscripciones.jpg"); 
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+div.portada-content{
+    margin: 1em 0;
+    padding: 1em 1em;
+    color: white;
+    background-color:#032177ab;/*#031b61ab #00000063*/
+    border-radius: 10px;
+}
+div.portada-content h1{
+    font-size: 2rem!important;
+    font-style: italic;
+}
+
+.carousel .carousel-item {
+    height: 450px;
+}
+  
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 450px;
+}
+
+.block{
+    padding: 1em 0;
+    text-align: center;
+}
+.block-white{
+    padding: 1em 0;
+    text-align: center;
+    background-color: white!important;
+}
+footer{
+    padding: 1em 0;
+    text-align: center;
+    background-color: #1c3278!important;
+    color: white;
+    font-size: 0.8em;
+    border-top: 1px solid #030338;
+}
+.block-lightblue img{
+    height: 5em;
+}
+.block-lightblue span{
+    display: block;
+}
+
+.carrousel-colegio{
+    padding: 0!important;
+}
+.carousel {
+    margin: 0 1em;
+}
+/*
+@font-face {
+    font-family: 'AcrosstheRoad';
+    src: url('assets/fonts/AcrosstheRoad.ttf')  format('truetype');
+}
+*/

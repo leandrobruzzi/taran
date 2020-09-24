@@ -1,0 +1,91 @@
+header {
+    height: 150px;
+    border-bottom: 3px solid black;
+}
+
+.imagen-principal {
+    height: 500px;
+}
+
+.nosotros {
+    height: 300px;
+}
+
+.servicios {
+    height: 300px;   
+}    
+
+img.logo { 
+    height: 130px;
+}
+
+.logo-corporativo {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.menu-ul li {
+    display: inline-block;
+    margin-left: 2.3em;
+}
+
+.menu-ul {
+    margin-top: 55px;
+}
+
+.menu {
+    height: 130px;
+    margin-top: 10px;
+}
+
+.menu-ul a {
+    color: #808080;
+    font-size: 1.2em;
+    text-decoration: none !important;
+}
+
+.menu-ul a:hover {
+    color: black
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.red {
+    background: red;
+}
+
+.blue {
+    background: blue;
+}
+
+.green { 
+    background: green;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.orange {
+    background: orange;
+}
+
+.brown {
+    background: brown;
+}
